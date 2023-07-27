@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICCPDataRequest-Response", "Silinecek\ICCPDataRequest-Response.csproj", "{15F15FCD-F71D-4836-A1D7-D47A9B51DCBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15F15FCD-F71D-4836-A1D7-D47A9B51DCBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F15FCD-F71D-4836-A1D7-D47A9B51DCBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F15FCD-F71D-4836-A1D7-D47A9B51DCBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F15FCD-F71D-4836-A1D7-D47A9B51DCBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3903830E-86CB-40AD-926C-268A13E8B53E}
+	EndGlobalSection
+EndGlobal
